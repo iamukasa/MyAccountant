@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.myaccountant.myaccountant.activities.CapitalActivity">
+    <item
+        android:id="@+id/action_sole"
+        android:orderInCategory="100"
+        android:title="Sole proprietorship"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_partnership"
+        android:orderInCategory="100"
+        android:title="Partnership"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_company"
+        android:orderInCategory="100"
+        android:title="Company"
+        app:showAsAction="never" />
+</menu>

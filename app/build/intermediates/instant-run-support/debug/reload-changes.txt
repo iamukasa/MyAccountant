@@ -1,0 +1,3 @@
+CHANGED,/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/myaccountant/myaccountant/chatmodule/FirebaseListAdapter$override.class
+CHANGED,/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/myaccountant/myaccountant/chatmodule/FirebaseListAdapter$1$override.class

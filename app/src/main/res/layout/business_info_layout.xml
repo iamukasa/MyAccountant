@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:background="@color/white"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <info.hoang8f.widget.FButton
+        android:id="@+id/bio_data_btn"
+        fbutton:buttonColor="@color/blue"
+        fbutton:shadowEnabled="true"
+        fbutton:cornerRadius="1dp"
+        android:text="BIO DATA"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"/>
+    <info.hoang8f.widget.FButton
+        android:id="@+id/assets_btn"
+        fbutton:buttonColor="@color/blue"
+        fbutton:shadowEnabled="true"
+        fbutton:cornerRadius="1dp"
+        android:text="ASSETS"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"/>
+    <info.hoang8f.widget.FButton
+        android:id="@+id/liabilities_btn"
+        fbutton:buttonColor="@color/blue"
+        fbutton:shadowEnabled="true"
+        fbutton:cornerRadius="1dp"
+        android:text="LIABILITIES"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"/>
+    <info.hoang8f.widget.FButton
+        android:id="@+id/capital_btn"
+        fbutton:buttonColor="@color/blue"
+        fbutton:shadowEnabled="true"
+        fbutton:cornerRadius="1dp"
+        android:text="CAPITAL"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"/>
+
+
+</LinearLayout>

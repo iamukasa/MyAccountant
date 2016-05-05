@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.rey.material.widget.EditText
+        android:id="@+id/create_account_email"
+        style="@style/Material.Widget.EditText"
+        app:et_dividerColor="@color/accent_material_light"
+        android:hint="email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <com.rey.material.widget.EditText
+        android:id="@+id/create_account_password"
+        style="@style/Material.Widget.EditText"
+        app:et_dividerColor="@color/accent_material_light"
+        android:hint="password"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <com.rey.material.widget.CheckBox
+        android:id="@+id/create_account_show_password"
+        style="@style/Material.Drawable.CheckBox"
+        android:layout_marginTop="5dp"
+        android:text="show password"
+        android:layout_gravity="left"
+        app:cbd_strokeColor="@color/accent_material_light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

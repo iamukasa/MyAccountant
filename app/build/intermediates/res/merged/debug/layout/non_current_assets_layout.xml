@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    xmlns:fbutton="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_margin="5dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textColor="@color/gray"
+            android:text="select category in which the non-current asset falls"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <org.angmarch.views.NiceSpinner
+            android:id="@+id/non_current_assets_category_spinner"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"/>
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textColor="@color/gray"
+            android:layout_marginBottom="5dp"
+            android:text="Select depreciation rate method of non-current asset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <org.angmarch.views.NiceSpinner
+            android:id="@+id/non_current_assets_depreciation_method_spinner"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"/>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/non_current_assets_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:met_baseColor="@color/secondary_color"
+            app:met_primaryColor="@color/blue"
+            app:met_singleLineEllipsis="true"
+            app:met_floatingLabel="highlight"
+            app:met_minCharacters="1"
+            app:met_maxCharacters="15"
+            app:met_clearButton="true"
+            app:met_helperText=""
+            android:hint="Name"/>
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/non_current_assets_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:met_baseColor="@color/secondary_color"
+            app:met_primaryColor="@color/blue"
+            app:met_singleLineEllipsis="true"
+            app:met_floatingLabel="highlight"
+            app:met_minCharacters="1"
+            app:met_clearButton="true"
+            app:met_helperText=""
+            android:hint="Description"/>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/non_current_assets_cost"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:met_baseColor="@color/secondary_color"
+                app:met_primaryColor="@color/blue"
+                app:met_singleLineEllipsis="true"
+                app:met_floatingLabel="highlight"
+                app:met_minCharacters="1"
+                android:inputType="number"
+                app:met_clearButton="true"
+                android:layout_weight="1"
+                android:layout_marginRight="5dp"
+                app:met_helperText="enter numbers only"
+                android:hint="Cost"/>
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/non_current_assets_depreciation_rate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:met_baseColor="@color/secondary_color"
+                app:met_primaryColor="@color/blue"
+                app:met_singleLineEllipsis="true"
+                app:met_floatingLabel="highlight"
+                app:met_minCharacters="1"
+                android:inputType="number"
+                app:met_clearButton="true"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                app:met_helperText="enter numbers only"
+                android:hint="Depreciation %"/>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/non_current_assets_accumulated_depreciation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:met_baseColor="@color/secondary_color"
+                app:met_primaryColor="@color/blue"
+                app:met_singleLineEllipsis="true"
+                app:met_floatingLabel="highlight"
+                app:met_minCharacters="1"
+                android:inputType="number"
+                app:met_clearButton="true"
+                app:met_helperText="enter numbers only"
+                android:hint="Accumulated depreciation"/>
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/non_current_assets_net_book_value"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:met_baseColor="@color/secondary_color"
+                app:met_primaryColor="@color/blue"
+                app:met_singleLineEllipsis="true"
+                app:met_floatingLabel="highlight"
+                app:met_minCharacters="1"
+                android:inputType="number"
+                app:met_clearButton="true"
+                app:met_helperText="enter numbers only"
+                android:hint="Net book value"/>
+        </LinearLayout>
+        <com.rey.material.widget.Button
+            android:id="@+id/save_btn"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="50dp"
+            app:rd_enable="true"
+            android:background="@color/blue"
+            style="@style/Material.Drawable.Ripple.Touch"
+            android:textColor="#ffffff"
+            android:text="save"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"/>
+    </LinearLayout>
+</ScrollView>

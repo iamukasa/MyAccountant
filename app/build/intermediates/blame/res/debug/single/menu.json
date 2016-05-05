@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/menu/mainai.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/menu/mainai.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/menu/menu_frame.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/menu/menu_frame.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/menu/menu_consultant_list.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/menu/menu_consultant_list.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/menu/menu_capital.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/menu/menu_capital.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/menu/menu_make_payment.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/menu/menu_make_payment.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/menu/menu_login.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/menu/menu_login.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/menu/menu_bio_data.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/menu/menu_bio_data.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/menu/menu_create_account.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/menu/menu_create_account.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/menu/menu_liabilities.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/menu/menu_liabilities.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/menu/menu_actual_chat.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/menu/menu_actual_chat.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/menu/menu_assets.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/menu/menu_assets.xml"
+    }
+]

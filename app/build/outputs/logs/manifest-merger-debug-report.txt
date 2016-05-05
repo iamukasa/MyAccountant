@@ -1,0 +1,441 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:2:1-135:12
+	package
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:7:22-65
+application
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:9:5-133:19
+MERGED from [MyAccountant:nice:unspecified] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/MyAccountant/nice/unspecified/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:recyclerview-v7:22.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [net.redwarp.android.library:lazy-database:0.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/net.redwarp.android.library/lazy-database/0.2.1/AndroidManifest.xml:27:5-28:19
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:12:9-36
+	android:theme
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:10:9-56
+activity#com.myaccountant.myaccountant.activities.MainActivity
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:15:9-24:20
+	android:theme
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:16:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.myaccountant.myaccountant.activities.FrameActivity
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:28:13-45
+	android:theme
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:26:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:29:13-33:29
+category#android.intent.category.DEFAULT
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:32:27-73
+activity#com.myaccountant.myaccountant.activities.BioDataActivity
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:35:9-40:20
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:39:13-60
+	android:theme
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:36:13-55
+activity#com.myaccountant.myaccountant.activities.AssetsActivity
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:41:9-44:20
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:43:13-58
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:42:13-54
+activity#com.myaccountant.myaccountant.activities.LiabilitiesActivity
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:45:9-48:20
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:47:13-63
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:46:13-59
+activity#com.myaccountant.myaccountant.activities.CapitalActivity
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:49:9-52:20
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:51:13-59
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:50:13-55
+activity#com.myaccountant.myaccountant.activities.LoginActivity
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:53:9-57:20
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:55:13-57
+	android:theme
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:56:13-69
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:54:13-53
+activity#com.myaccountant.myaccountant.activities.CreateAccountActivity
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:58:9-62:20
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:60:13-66
+	android:theme
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:61:13-69
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:59:13-61
+activity#com.myaccountant.myaccountant.activities.ConsultantList
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:63:9-70:20
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:65:13-67
+	android:parentActivityName
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:66:13-66
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:64:13-54
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:67:13-69:89
+	android:value
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:69:17-86
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:68:17-63
+activity#com.myaccountant.myaccountant.activities.CompanyActivity
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:71:9-78:20
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:74:13-59
+	android:parentActivityName
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:73:13-69
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:72:13-55
+activity#com.myaccountant.myaccountant.activities.SoleProprietorshipActivity
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:79:9-86:20
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:82:13-71
+	android:parentActivityName
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:81:13-69
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:80:13-66
+activity#com.myaccountant.myaccountant.activities.PartnershipActivity
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:87:9-94:20
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:90:13-63
+	android:parentActivityName
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:89:13-69
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:88:13-59
+activity#com.myaccountant.myaccountant.activities.ActualChat
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:96:9-103:20
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:98:13-63
+	android:parentActivityName
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:99:13-68
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:97:13-50
+activity#com.myaccountant.myaccountant.activities.MakePayment
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:104:9-111:20
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:106:13-64
+	android:parentActivityName
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:107:13-66
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:105:13-51
+activity#com.myaccountant.myaccountant.ChatBot.MainActivityAI
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:112:9-117:20
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:115:13-45
+	android:theme
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:114:13-56
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:113:13-51
+activity#com.myaccountant.myaccountant.chatmodule.MainActivityChatModule
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:118:9-123:20
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:121:13-45
+	android:theme
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:120:13-56
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:119:13-62
+service#com.myaccountant.myaccountant.ChatBot.LoadBrainService
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:125:9-127:39
+	android:exported
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:127:13-37
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:126:13-53
+service#com.myaccountant.myaccountant.ChatBot.BrainService
+ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:129:9-131:48
+	android:label
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:131:13-45
+	android:icon
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:130:13-40
+	android:name
+		ADDED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml:129:18-54
+uses-sdk
+INJECTED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [MyAccountant:nice:unspecified] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/MyAccountant/nice/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [MyAccountant:chartlib:unspecified] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/MyAccountant/chartlib/unspecified/AndroidManifest.xml:17:5-19:41
+MERGED from [MyAccountant:togglelay:unspecified] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/MyAccountant/togglelay/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:22.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appstate:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-cast:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-games:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-nearby:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-panorama:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-plus:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wallet:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.github.florent37:materialtextfield:1.0.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.github.florent37/materialtextfield/1.0.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:cardview-v7:23.0.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [info.hoang8f:fbutton:1.0.5] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/info.hoang8f/fbutton/1.0.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.rey5137:material:1.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.github.rey5137/material/1.2.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.0.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/AndroidManifest.xml:2:5-72
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.1.4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [net.redwarp.android.library:lazy-database:0.2.1] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/net.redwarp.android.library/lazy-database/0.2.1/AndroidManifest.xml:23:5-25:41
+	android:targetSdkVersion
+		INJECTED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dice/AndroidStudioProjects/MyAccountant/app/src/main/AndroidManifest.xml
+activity#android.support.v7.widget.TestActivity
+ADDED from [com.android.support:recyclerview-v7:22.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/AndroidManifest.xml:23:9-25:56
+	android:label
+		ADDED from [com.android.support:recyclerview-v7:22.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/AndroidManifest.xml:25:13-53
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:22.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/AndroidManifest.xml:24:13-66
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:7.0.0] /home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:22:13-58

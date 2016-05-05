@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/msg_in.9.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/drawable/msg_in.9.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/card_two.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/drawable/card_two.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/spinner_drawable.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/MyAccountant/nice/unspecified/res/drawable/spinner_drawable.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/bubble_green.9.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/drawable/bubble_green.9.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/user_placeholder.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/drawable/user_placeholder.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/arrow.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/MyAccountant/nice/unspecified/res/drawable/arrow.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/bubble_yellow.9.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/drawable/bubble_yellow.9.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/accountant_image2.jpg",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/drawable/accountant_image2.jpg"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/background_tab.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/res/drawable/background_tab.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/action_bar_item.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/drawable/action_bar_item.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/card.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/drawable/card.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/selector.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/MyAccountant/nice/unspecified/res/drawable/selector.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/msg_out.9.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/drawable/msg_out.9.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    }
+]

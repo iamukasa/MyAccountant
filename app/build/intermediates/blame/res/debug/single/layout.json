@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/activity_assets.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/activity_assets.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/create_account_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/create_account_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/chat_item.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/chat_item.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/top_list_view_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/top_list_view_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/activity_mainai.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/activity_mainai.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/progress_report_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/progress_report_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/feedback_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/feedback_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/activity_create_account.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/activity_create_account.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/sole_proprietorship_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/sole_proprietorship_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/current_assets_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/current_assets_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/row_layout_two_dialog.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/row_layout_two_dialog.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/company_list_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/company_list_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/login_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/login_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/row_layout_one.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/row_layout_one.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/sales_list_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/sales_list_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/other_income_list_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/other_income_list_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/chat_listitem_left.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/chat_listitem_left.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/chat_item_sent.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/chat_item_sent.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/partnership_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/partnership_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/business_info_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/business_info_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/income_statement_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/income_statement_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/add_sales_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/add_sales_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/partnership_list_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/partnership_list_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/company_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/company_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/non_current_assets_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/non_current_assets_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/add_income_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/add_income_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/current_liability_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/current_liability_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/scf_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/scf_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/activity_frame.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/activity_frame.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/non_current_liability_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/non_current_liability_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/non_current_liability_list_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/non_current_liability_list_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/activity_capital.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/activity_capital.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/chat_item_rcv.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/chat_item_rcv.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/bio_data_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/bio_data_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/sole_proprietorship_list.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/sole_proprietorship_list.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/activity_consultant_list.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/activity_consultant_list.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/activity_bio_data.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/activity_bio_data.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/purchases_list_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/purchases_list_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/current_liability_list_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/current_liability_list_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/add_purchase_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/add_purchase_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/activity_actual_chat.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/activity_actual_chat.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/add_expenses_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/add_expenses_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/activity_make_payment.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/activity_make_payment.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/faqs_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/faqs_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/dialog_sounds.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/dialog_sounds.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/expenses_list_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/expenses_list_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/row_layout_two.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/row_layout_two.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/sfp_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/sfp_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/mtf_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.github.florent37/materialtextfield/1.0.1/res/layout/mtf_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/activity_liabilities.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/activity_liabilities.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/row_layout_one_dialog.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/row_layout_one_dialog.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/dialog_brain_log.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/dialog_brain_log.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/current_assets_list_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/current_assets_list_layout.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/spinner_list_item.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/MyAccountant/nice/unspecified/res/layout/spinner_list_item.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/chat_listitem_right.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/chat_listitem_right.xml"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/layout/non_current_asset_list_layout.xml",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/layout/non_current_asset_list_layout.xml"
+    }
+]

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.myaccountant.myaccountant" >
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:name=".helpers.MyAccountantApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".activities.MainActivity"
+            android:theme="@style/AppTheme" >
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.FrameActivity"
+            android:theme="@style/AppTheme"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.BioDataActivity"
+            android:theme="@style/AppTheme"
+
+            android:label="@string/title_activity_bio_data" >
+        </activity>
+        <activity
+            android:name=".activities.AssetsActivity"
+            android:label="@string/title_activity_assets" >
+        </activity>
+        <activity
+            android:name=".activities.LiabilitiesActivity"
+            android:label="@string/title_activity_liabilities" >
+        </activity>
+        <activity
+            android:name=".activities.CapitalActivity"
+            android:label="@string/title_activity_capital" >
+        </activity>
+        <activity
+            android:name=".activities.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activities.CreateAccountActivity"
+            android:label="@string/title_activity_create_account"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activities.ConsultantList"
+            android:label="@string/title_activity_consultant_list"
+            android:parentActivityName=".activities.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.myaccountant.myaccountant.activities.MainActivity" />
+        </activity>
+        <activity
+            android:name=".activities.CompanyActivity"
+            android:parentActivityName=".activities.CapitalActivity"
+            android:label="@string/title_activity_company">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.myaccountant.myaccountant.activities.CapitalActivity" />
+        </activity>
+        <activity
+            android:name=".activities.SoleProprietorshipActivity"
+            android:parentActivityName=".activities.CapitalActivity"
+            android:label="@string/title_activity_sole_proprietorship">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.myaccountant.myaccountant.activities.CapitalActivity" />
+        </activity>
+        <activity
+            android:name=".activities.PartnershipActivity"
+            android:parentActivityName=".activities.CapitalActivity"
+            android:label="@string/title_activity_partnership">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.myaccountant.myaccountant.activities.CapitalActivity" />
+        </activity>
+
+        <activity
+            android:name=".activities.ActualChat"
+            android:label="@string/title_activity_actual_chat"
+            android:parentActivityName=".activities.ConsultantList" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.myaccountant.myaccountant.activities.ConsultantList" />
+        </activity>
+        <activity
+            android:name=".activities.MakePayment"
+            android:label="@string/title_activity_make_payment"
+            android:parentActivityName=".activities.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.myaccountant.myaccountant.activities.MainActivity" />
+        </activity>
+        <activity
+            android:name=".ChatBot.MainActivityAI"
+            android:theme="@style/CustomActionBarTheme"
+            android:label="@string/app_name" >
+
+        </activity>
+        <activity
+            android:name=".chatmodule.MainActivityChatModule"
+            android:theme="@style/CustomActionBarTheme"
+            android:label="@string/app_name" >
+
+        </activity>
+
+        <service
+            android:name=".ChatBot.LoadBrainService"
+            android:exported="false"/>
+
+        <service android:name=".ChatBot.BrainService"
+            android:icon="@mipmap/logo"
+            android:label="@string/app_name" />
+
+    </application>
+
+</manifest>

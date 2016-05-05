@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_feedback.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/mipmap-xxhdpi/ic_feedback.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_edit.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/mipmap-xxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_purchase.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/mipmap-xxhdpi/ic_purchase.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_add.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/mipmap-xxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_sales.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/mipmap-xxhdpi/ic_sales.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_progress_report.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/mipmap-xxhdpi/ic_progress_report.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/logo.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_faqs.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/mipmap-xxhdpi/ic_faqs.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_expense.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/mipmap-xxhdpi/ic_expense.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_other_income.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/mipmap-xxhdpi/ic_other_income.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_business_info.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/mipmap-xxhdpi/ic_business_info.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_login_out.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/mipmap-xxhdpi/ic_login_out.png"
+    }
+]

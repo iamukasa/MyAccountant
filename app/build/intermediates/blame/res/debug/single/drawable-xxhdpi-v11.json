@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v11/ic_stat_notify_chat.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/drawable-xxhdpi-v11/ic_stat_notify_chat.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v11/ic_stat_loading.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/drawable-xxhdpi-v11/ic_stat_loading.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v11/ic_stat_reload.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/drawable-xxhdpi-v11/ic_stat_reload.png"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v11/ic_stat_stop.png",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/drawable-xxhdpi-v11/ic_stat_stop.png"
+    }
+]

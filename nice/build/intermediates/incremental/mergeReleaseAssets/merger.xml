@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/dice/AndroidStudioProjects/MyAccountant/nice/src/main/assets"/><source path="/home/dice/AndroidStudioProjects/MyAccountant/nice/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/dice/AndroidStudioProjects/MyAccountant/nice/src/release/assets"/></dataSet></merger>

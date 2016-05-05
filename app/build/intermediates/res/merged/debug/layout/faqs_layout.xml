@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/question_1"
+        android:clickable="true"
+        android:textAllCaps="true"
+        android:text="What is an Asset"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/answer_1"
+        android:text="It is any property cash and cash equivalent or any other such items held by the business which result in an income"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/question_2"
+        android:clickable="true"
+        android:textAllCaps="true"
+        android:text="What is a liability"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/answer_2"
+        android:text="It is any debts owed or anything that results in the business spending money to maintain the same"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Question_3"
+        android:clickable="true"
+        android:textAllCaps="true"
+        android:text="Difference between a current asset and a non current asset"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/answer_3"
+        android:text="A current asset is going to be in the business for less than one financial year whereas a non current asset is going to be in the business for more than one financial year"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/question_4"
+        android:clickable="true"
+        android:textAllCaps="true"
+        android:text="difference between current liability and non current liabilities"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/answer_4"
+        android:text="Current liabilities are going to be paid off within one financial year whereas non current liabilities are going to extend over one financial year"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/question_5"
+        android:clickable="true"
+        android:textAllCaps="true"
+        android:text="difference between expenses and purchases"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/answer_5"
+        android:text="Purchases are goods or services which the business buys so that they are resold whereas expenses are costs which the business pays for for smooth running of the business"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/question_6"
+        android:clickable="true"
+        android:textAllCaps="true"
+        android:text="What are the three essential financial statements"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/answer_6"
+        android:text="The three essential financial statements include the statement of financial position,income statement and the cash flow statement"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/question_7"
+        android:clickable="true"
+        android:textAllCaps="true"
+        android:text="Income statement"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/answer_7"
+        android:text="The income statement also known as the profit loss account shows the profit or loss made or suffered by the business"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/question_8"
+        android:clickable="true"
+        android:textAllCaps="true"
+        android:text="statement of financial position"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/answer_8"
+        android:text="The statement of financial position basically shows a list of asset,liabilities and capital information of the business"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/question_9"
+        android:clickable="true"
+        android:textAllCaps="true"
+        android:text="statement of cash flow"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/answer_9"
+        android:text="The cash flow statement shows how cash is used and earned in the business from operating investing and financing activities"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/question_10"
+        android:clickable="true"
+        android:textAllCaps="true"
+        android:text="what is the significance of the other income section"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/answer_10"
+        android:text="The other income section is responsible for picking up the information on the other incomes earned apart from that accruing from the main business of the company"
+        />
+
+
+</LinearLayout>
+</ScrollView>

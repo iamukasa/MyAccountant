@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/expenses_list_parent"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/total_expenses_layout"
+        android:orientation="vertical"
+        android:paddingLeft="10sp"
+        android:background="@color/fbutton_color_alizarin"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+    </LinearLayout>
+    <ListView
+        android:id="@+id/expenses_list"
+        android:layout_below="@id/total_expenses_layout"
+        android:dividerHeight="0dp"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>

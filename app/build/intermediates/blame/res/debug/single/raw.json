@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/merged/debug/raw/notification_loaded.mp3",
+        "source": "/home/dice/AndroidStudioProjects/MyAccountant/app/src/main/res/raw/notification_loaded.mp3"
+    }
+]

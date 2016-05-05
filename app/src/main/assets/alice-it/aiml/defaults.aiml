@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.01 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Revision Biblent v1.01-->
+<!-- Convertion by - Gene Wells -->
+<!-- Last Modified  Aug 7 2005 -->
+
+
+<aiml>
+<category><pattern>DEFINE *</pattern>
+<template>
+<think><set name="it"><set name="topic"><star/></set></set></think>
+<srai>WNDEF <star/></srai>
+</template>
+</category>
+<category><pattern>DESCRIBE *</pattern>
+<template>
+<think><set name="it"><set name="topic"><star/></set></set></think>
+<srai>WNDEF <star/></srai>
+</template>
+</category>
+
+<category><pattern>WHAT IS *</pattern>
+<template>
+<think><set name="it"><set name="topic"><star/></set></set></think>
+<srai>WNDEF <star/></srai>
+</template>
+</category>
+
+<category><pattern>EXPLAIN *</pattern>
+<template>
+<think><set name="it"><set name="topic"><star/></set></set></think>
+<srai>WNDEF <star/></srai>
+</template>
+</category>
+
+<category><pattern>WHAT IS A *</pattern>
+<template>
+<think><set name="it"><set name="topic"><star/></set></set></think>
+<srai>WNDEF <star/></srai>
+</template>
+</category>
+
+<category><pattern>WHAT IS AN *</pattern>
+<template>
+<think><set name="it"><set name="topic"><star/></set></set></think>
+<srai>WNDEF <star/></srai>
+</template>
+</category>
+
+<category><pattern>WHATS A *</pattern>
+<template>
+<think><set name="it"><set name="topic"><star/></set></set></think>
+<srai>WNDEF <star/></srai>
+</template>
+</category>
+<category><pattern>WHATS AN *</pattern>
+<template>
+<think><set name="it"><set name="topic"><star/></set></set></think>
+<srai>WNDEF <star/></srai>
+</template>
+</category>
+
+<category><pattern>WHAT IS THE *</pattern>
+<template>
+<think><set name="it"><set name="topic"><star/></set></set></think>
+<srai>WNDEF <star/></srai>
+</template>
+</category>
+
+<category><pattern>WHAT IS THE difference between *</pattern>
+<template>
+<think><set name="it"><set name="topic"><star/></set></set></think>
+<srai>WNDEF <star/></srai>
+</template>
+</category>
+
+<category><pattern>WHAT ARE THE *</pattern>
+<template>
+<think><set name="it"><set name="topic"><star/></set></set></think>
+<srai>WNDEF <star/></srai>
+</template>
+</category>
+
+<category><pattern>WHAT ARE THE *</pattern>
+<template>
+<think><set name="it"><set name="topic"><star/></set></set></think>
+<srai>WNDEF <star/></srai>
+</template>
+</category>
+
+<category><pattern>TELL ME ABOUT *</pattern>
+<template>
+<think><set name="it"><set name="topic"><star/></set></set></think>
+<srai>WNDEF <star/></srai>
+</template>
+</category>
+
+<category><pattern>WNDEF *</pattern>
+<template>I don't know the definition of <star/>.</template>
+</category>
+  
+
+
+
+</aiml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_grey">#ffe4e4e4</color>
+    <color name="act_back">#303F9F</color>
+    <color name="white_pure">#FFFFFF</color>
+    <color name="theme_dialer_accent">#FFF</color>
+    <color name="black">#000</color>
+
+   
+    <color name="green">#4CAF50</color>
+    <color name="green_teal">#1B5E20</color>
+    <color name="purple">#673AB7</color>
+    <color name="red">#F44336</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="lime">#CDDC39</color>
+
+
+ <item name="secondary_color" type="color">#363644</item>
+    <item name="primary_color" type="color">#494954</item>
+    <item name="fab_color" type="color">#6440c1</item>
+
+    <item name="white" type="color">#f2f2f3</item>
+    <item name="gray" type="color">#a2a2a7</item>
+
+    <item name="blue" type="color">#0390dc</item>
+    <color name="transparent">#00000000</color>
+    <!-- card colors -->
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow_1">#d4d4d4</color>
+    <color name="card_shadow_2">#dddddd</color>
+    <color name="card_detailing">#eee</color>
+
+</resources>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:padding="5dp"
+        android:orientation="vertical"
+        android:layout_margin="8dp"
+        android:background="@drawable/card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:text="Income Statement"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/secondary_color"
+            android:layout_marginBottom="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/income_statement_current"
+            style="@style/Material.Drawable.CheckBox"
+            app:cbd_strokeColor="@color/blue"
+            android:text="current"
+            android:layout_marginLeft="5dp"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/income_statement_quarterly"
+            style="@style/Material.Drawable.CheckBox"
+            android:layout_marginLeft="5dp"
+            app:cbd_strokeColor="@color/fbutton_color_silver"
+            android:enabled="false"
+            android:text="quarterly"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/income_statement_semi_anually"
+            style="@style/Material.Drawable.CheckBox"
+            app:cbd_strokeColor="@color/fbutton_color_silver"
+            android:enabled="false"
+            android:text="semi-anually"
+            android:layout_marginLeft="5dp"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/income_statement_anually"
+            android:layout_marginLeft="5dp"
+            style="@style/Material.Drawable.CheckBox"
+            app:cbd_strokeColor="@color/fbutton_color_silver"
+            android:enabled="false"
+            android:text="anually"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/income_statement_next"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:layout_gravity="right"
+            android:textColor="@color/blue"
+            android:text="NEXT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        </LinearLayout>
+    <LinearLayout
+        android:padding="5dp"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:background="@drawable/card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:text="Statement of Financial Position"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/secondary_color"
+            android:layout_marginBottom="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/sfp_current"
+            style="@style/Material.Drawable.CheckBox"
+            app:cbd_strokeColor="@color/blue"
+            android:text="current"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/sfp_quarterly"
+            android:layout_marginLeft="5dp"
+            style="@style/Material.Drawable.CheckBox"
+            app:cbd_strokeColor="@color/fbutton_color_silver"
+            android:enabled="false"
+            android:text="quarterly"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/sfp_semi_anually"
+            style="@style/Material.Drawable.CheckBox"
+            app:cbd_strokeColor="@color/fbutton_color_silver"
+            android:enabled="false"
+            android:text="semi-anually"
+            android:layout_marginLeft="5dp"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/sfp_anually"
+            android:layout_marginLeft="5dp"
+            style="@style/Material.Drawable.CheckBox"
+            app:cbd_strokeColor="@color/fbutton_color_silver"
+            android:enabled="false"
+            android:text="anually"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/sfp_next"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:layout_gravity="right"
+            android:textColor="@color/blue"
+            android:text="NEXT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:padding="5dp"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:background="@drawable/card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:text="Statement of Cash Flow"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/secondary_color"
+            android:layout_marginBottom="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/scf_current"
+            style="@style/Material.Drawable.CheckBox"
+            app:cbd_strokeColor="@color/blue"
+            android:text="current"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/scf_quarterly"
+            android:layout_marginLeft="5dp"
+            style="@style/Material.Drawable.CheckBox"
+            app:cbd_strokeColor="@color/fbutton_color_silver"
+            android:enabled="false"
+            android:text="quarterly"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/scf_semi_anually"
+            style="@style/Material.Drawable.CheckBox"
+            app:cbd_strokeColor="@color/fbutton_color_silver"
+            android:enabled="false"
+            android:text="semi-anually"
+            android:layout_marginLeft="5dp"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/scf_anually"
+            android:layout_marginLeft="5dp"
+            style="@style/Material.Drawable.CheckBox"
+            app:cbd_strokeColor="@color/fbutton_color_silver"
+            android:enabled="false"
+            android:text="anually"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/scf_next"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:layout_gravity="right"
+            android:textColor="@color/blue"
+            android:text="NEXT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:padding="5dp"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:background="@drawable/card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:text="Analytics"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/secondary_color"
+            android:layout_marginBottom="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/analytics_current"
+            style="@style/Material.Drawable.CheckBox"
+            app:cbd_strokeColor="@color/blue"
+            android:text="current"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/analytics_quarterly"
+            android:layout_marginLeft="5dp"
+            style="@style/Material.Drawable.CheckBox"
+            app:cbd_strokeColor="@color/fbutton_color_silver"
+            android:enabled="false"
+            android:text="quarterly"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/analytics_semi_anually"
+            style="@style/Material.Drawable.CheckBox"
+            app:cbd_strokeColor="@color/fbutton_color_silver"
+            android:enabled="false"
+            android:text="semi-anually"
+            android:layout_marginLeft="5dp"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.rey.material.widget.CheckBox
+            android:id="@+id/analytics_anually"
+            android:layout_marginLeft="5dp"
+            style="@style/Material.Drawable.CheckBox"
+            app:cbd_strokeColor="@color/fbutton_color_silver"
+            android:enabled="false"
+            android:text="anually"
+            android:gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/analytics_next"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:layout_gravity="right"
+            android:textColor="@color/blue"
+            android:text="NEXT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    </LinearLayout>
+</ScrollView>

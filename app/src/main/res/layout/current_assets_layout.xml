@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    xmlns:fbutton="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_margin="5dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:textStyle="bold"
+            android:layout_marginBottom="5dp"
+            android:text="Select category in which the current assets falls"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <org.angmarch.views.NiceSpinner
+                android:id="@+id/current_assets_category_spinner"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"/>
+        </LinearLayout>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/current_assets_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:met_baseColor="@color/secondary_color"
+            app:met_primaryColor="@color/blue"
+            app:met_singleLineEllipsis="true"
+            app:met_floatingLabel="highlight"
+            app:met_minCharacters="1"
+            app:met_maxCharacters="15"
+            app:met_clearButton="true"
+            app:met_helperText=""
+            android:hint="Name"/>
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/current_assets_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:met_baseColor="@color/secondary_color"
+            app:met_primaryColor="@color/blue"
+            app:met_singleLineEllipsis="true"
+            app:met_floatingLabel="highlight"
+            app:met_minCharacters="1"
+            app:met_clearButton="true"
+            app:met_helperText=""
+            android:hint="Description"/>
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/current_assets_depreciation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:met_baseColor="@color/secondary_color"
+            app:met_primaryColor="@color/blue"
+            app:met_singleLineEllipsis="true"
+            app:met_floatingLabel="highlight"
+            app:met_minCharacters="1"
+            android:inputType="number"
+            app:met_clearButton="true"
+            app:met_helperText="enter numbers only"
+            android:hint="Depreciation rate"/>
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/current_assets_worth"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:met_baseColor="@color/secondary_color"
+            app:met_primaryColor="@color/blue"
+            app:met_singleLineEllipsis="true"
+            app:met_floatingLabel="highlight"
+            app:met_minCharacters="1"
+            android:inputType="number"
+            app:met_clearButton="true"
+            app:met_helperText="enter numbers only"
+            android:hint="Worth"/>
+
+        <com.rey.material.widget.Button
+            android:id="@+id/save_btn"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="50dp"
+            app:rd_enable="true"
+            android:background="@color/blue"
+            style="@style/Material.Drawable.Ripple.Touch"
+            android:textColor="#ffffff"
+            android:text="save"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"/>
+    </LinearLayout>
+</ScrollView>

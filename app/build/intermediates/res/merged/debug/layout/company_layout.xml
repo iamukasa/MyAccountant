@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    xmlns:fbutton="http://schemas.android.com/tools"
+    tools:context="com.myaccountant.myaccountant.activities.CompanyActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_margin="5dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:textStyle="bold"
+            android:layout_marginBottom="5dp"
+            android:layout_gravity="center_horizontal"
+            android:text="select category of shares held by the shareholder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <Spinner
+            android:id="@+id/company_category_spinner"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:entries="@array/dataset"/>
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/company_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:met_baseColor="@color/secondary_color"
+            app:met_primaryColor="@color/blue"
+            app:met_singleLineEllipsis="true"
+            app:met_floatingLabel="highlight"
+            app:met_minCharacters="1"
+            app:met_maxCharacters="15"
+            app:met_clearButton="true"
+            app:met_helperText=""
+            android:hint="Name of shareholder"/>
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/company_amount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:met_baseColor="@color/secondary_color"
+            app:met_primaryColor="@color/blue"
+            app:met_singleLineEllipsis="true"
+            app:met_floatingLabel="highlight"
+            app:met_minCharacters="1"
+            android:inputType="number"
+            app:met_clearButton="true"
+            app:met_helperText="enter numbers only"
+            android:hint="Amount held"/>
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/company_issue_price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:met_baseColor="@color/secondary_color"
+            app:met_primaryColor="@color/blue"
+            app:met_singleLineEllipsis="true"
+            app:met_floatingLabel="highlight"
+            app:met_minCharacters="1"
+            android:inputType="number"
+            app:met_clearButton="true"
+            app:met_helperText="enter numbers only"
+            android:hint="Issue price"/>
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/company_current_price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:met_baseColor="@color/secondary_color"
+            app:met_primaryColor="@color/blue"
+            app:met_singleLineEllipsis="true"
+            app:met_floatingLabel="highlight"
+            app:met_minCharacters="1"
+            android:inputType="number"
+            app:met_clearButton="true"
+            app:met_helperText="enter numbers only"
+            android:hint="Current price"/>
+
+        <com.rey.material.widget.Button
+            android:id="@+id/save_btn"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="50dp"
+            app:rd_enable="true"
+            android:background="@color/blue"
+            style="@style/Material.Drawable.Ripple.Touch"
+            android:textColor="#ffffff"
+            android:text="save"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"/>
+    </LinearLayout>
+</LinearLayout>
