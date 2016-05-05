@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="23513395902572"
+    verifier="DEPENDENCY_CHANGED" >
+
+    <task
+        name="javac"
+        duration="13597" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="4857" />
+    <task
+        name="verifier"
+        duration="126" />
+
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-7.0.0_60326efa94ab99efe9958738dd8e7f1fb9b6078d/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_21db7078b7e1fe4285e310193b1823ff8c7d9e48/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-7.0.0_07c50709abbe7a68afcb30e6c5d3dc57988fb64f/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-7.0.0_4e0d813167b9fcc30e6438ae115d09d95ad619d0/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-7.0.0_b87450c4808f68774ef240d623ab5a4da74d8d85/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/systembartint-1.0.3_6b970f908cf0846ce931f2845012b7a76509cb90/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_e7ea5216d1af82af76365830f4a8df6fb42ad7e1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-7.0.0_63874585b95edb27d4f92671a894e919d367d732/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.1_aaaf2ccc79a204d51b1edac24dc8e72a9ae5ede7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_701e6123e17f58e9e47d1ec55c95cbb7a9aadf6e/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/2/joda-time-2.1_3963c2d17bd1c2998b7bf21c9c498a3cbeb8c733/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_3164eae300cee1c2bda649c3d6d656f4496d3133/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-7.0.0_a12fb72f3d46dc2515aca8a8bb0899b16ada56ae/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.2.3_2ea978ba14746bb9fecaff3a4fe444620c4e569d/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_64f6eff141bd648eb0de967021cb9f57367146bc/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-7.0.0_dacbf48ef9b310fca32a1ca044cc52bb81781a94/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.rengwuxian.materialedittext-library-2.1.4_8a30d7881248aa5a20d50426ba653243bc5803b9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-7.0.0_b505973ab613cacb4b843c16244240b0957e31c1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.astuetz-pagerslidingtabstrip-1.0.1_7a3fb3ace123e01c368cfc6b06a45b62ef06ef04/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/info.hoang8f-fbutton-1.0.5_fd6c8b139620e6f8c3c966d8e1be3cc1cbdc8144/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-7.0.0_de2f62acac50e926f10144a946ba644656d89955/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0f0d0e3f0254aa1a1b5a9cb6c3afed56e5c6c094/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_11d36f1a02d504655aa421e854bf51e76b236c9e/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.rey5137-material-1.2.1_445fcd4c1b2ccbaa1df1e7b4df2b9729e372ee21/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/net.redwarp.android.library-lazy-database-0.2.1_1b7ca8091039d3938ca0afca40b4413da348b56b/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.0.3_8b1f219b735514ea2382e5c2a1021aa793f810e8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore_4fd04af9cd642d394d7b55f051d879c75c26fcc3/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appstate-7.0.0_0a7dd96d84775fa9cbb2d37686b6757ce09a9bea/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dice/AndroidStudioProjects/MyAccountant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-7.0.0_9f18844646f8d0013fc42e15d95d3ca2304dc627/classes.dex"
+        type="DEX" />
+
+</instant-run>
